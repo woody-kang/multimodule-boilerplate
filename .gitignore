@@ -7,7 +7,7 @@ test.txt
 **/resources/application-local.yml
 **/resources/application-local.yaml
 
-### STS ###
+#### STS ####
 .apt_generated
 .classpath
 .factorypath
